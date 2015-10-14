@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\meowchen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-adb5d7ebbae1ce0da9b49518fe443cb7b868bc89.jar" />
+    </item>
+    <item
+        jar="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\classes-94fb4fe9adb1b41f0cbf5fbd38cf0733ed0e14a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\classes-bb92e928d96facf481897084dc29711c8f66b0d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-c4e3b9f72c90dff6c866172e3e166ce8e6820c0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\classes-762cbd7171dd4291a86ffe5612d6ee82db7701ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-f609554b90f97ba17efec34af57f4966367ceabc.jar" />
+    </item>
+    <item
+        jar="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\meowchen\Desktop\PathTracker\Application\build\intermediates\pre-dexed\debug\classes-f4b48f014a1bf0e7baf4aad9fbc10f0d20403c6b.jar" />
+    </item>
+
+</items>
